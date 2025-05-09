@@ -32,8 +32,9 @@ Each station includes:
 
 ## 📁 Project File
 
-- `DCCN Project Railway Station Network.pkt`:  
-  The main Cisco Packet Tracer file containing:
+- `DCCN Project Railway Station Network.pkt`:  DCCN Project Railway Station Network.pkt
+  
+   The main Cisco Packet Tracer file containing:
   - Full topology of interconnected stations
   - Configured routers, IPs, and devices
   - Ready-to-run simulation with pre-defined routes and connectivity
