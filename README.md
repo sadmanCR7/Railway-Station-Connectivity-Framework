@@ -54,7 +54,7 @@ Each station includes:
 - **Semester:** 2nd Year, 1st Semester  
 - **Project Type:** Simulation-based networking project  
 - **Institution:** _[Bangladesh University of Professionals]_  
-- **Team Members:** _[Sadman Sakib,Md.Shahriar Nasim Shawon,Farzana Hossain Mimi]_
+- **Team Members:** _[Sadman Sakib,Md Shahriar Nasim Shawon,Farzana Hossain Mimi]_
 
 ## 📬 Contact
 
